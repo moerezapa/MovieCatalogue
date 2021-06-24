@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie and TV Catalogue</string>
+    <string name="title_activity_main2">Movie Catalogue</string>
+    <string name="title_movietab">Movies</string>
+    <!--    <string name="title_tvtab">TV</string>-->
+    <string name="title_tv">TV</string>
+    <string name="title_fav">Favorite</string>
+    <string name="txt_overview">Overview</string>
+    <string name="txt_releasedate">Release Date</string>
+    <string name="txt_creator">Creator</string>
+    <string name="txt_popularity">Popularity</string>
+    <string name="txt_director">Director</string>
+    <string name="txt_userscore">User Score</string>
+    <string name="txt_memuatdata">Memuat data...</string>
+    <string name="message_snackbar">Berhasil menghapus dari daftar favorit</string>
+    <string name="message_undo">Batalkan</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="btn_add_to_favorite_title">Tambahkan Sebagai Favorit</string>
+</resources>
